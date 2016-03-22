@@ -2,4 +2,4 @@
 
 - **Name:** GitHub Student
 - **Occupation:** Student
-- **Location:** SFO
+- **Location:** Dublin CA USA
