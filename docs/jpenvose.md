@@ -1,5 +1,6 @@
 # Github jpenvose BIO
 
 - **Name:** jpenvose
-- **Occupation:** developer
+- **Occupation:** Web Developer
 - **Location:** Tampa
+- **Vacation spot:** Ibiza
