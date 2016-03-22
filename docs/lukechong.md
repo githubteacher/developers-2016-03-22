@@ -2,4 +2,4 @@
 
 - **NAME:** Luke Chong
 - **OCCUPATION:** Student
-- **LOCATION:** Edmonton
+- **LOCATION:** Edmonton, AB, Canada
