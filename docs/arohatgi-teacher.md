@@ -2,4 +2,4 @@
 
 - **Name:** Amit Rohatgi
 - **Occupation:** Engineer
-- **Location:** San Diego
+- **Location:** San ...
