@@ -2,4 +2,4 @@
 
 - **Name:** Andrew McEdwareds
 - **Occupation:** Intuit Public Cloud manager
-- **Location:** Remote (Toronto, Canada)
+- **Location:** Remote (Toronto, Ontario, Canada)
