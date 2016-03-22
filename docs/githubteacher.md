@@ -2,4 +2,4 @@
 
 - **Name:** Saurabh
 - **Occupation:** Quality Engineer
-- **Location:** San Diego
+- **Location:** San Diego, CA 
