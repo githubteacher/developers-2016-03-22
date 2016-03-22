@@ -3,3 +3,6 @@
 **occupation:** teacher
 
 **location:** MTV
+
+**vacation:** Tokyo
+
