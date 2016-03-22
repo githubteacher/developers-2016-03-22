@@ -2,4 +2,6 @@
 
 - **Name:** Daphne
 - **Occupation:** SWE in Quality
-- **Location:** Mountain View
+- **Location:** Mountain View, CA
+
+:heart:
