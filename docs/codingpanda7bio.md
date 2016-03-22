@@ -3,3 +3,4 @@
 - **Name:** Pandu
 - **Occupation:** Police Officer
 - **Location:** San Diego
+- **Vacation:** New Zealand
