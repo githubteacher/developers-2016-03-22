@@ -1,4 +1,4 @@
 **Name:** Aruna Thennakoon
 **Occupation:** Tester
-**Location:** Singapore 
+**Favourite Location:** Singapore 
 Modified.
