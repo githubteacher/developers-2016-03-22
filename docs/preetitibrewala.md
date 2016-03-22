@@ -2,5 +2,5 @@
 
 - **Name** Preeti
 - **Occupation** Engineer
-- **Location** Mountain View
+- **Location** Mountain View, CA
 
