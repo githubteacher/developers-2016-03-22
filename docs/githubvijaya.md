@@ -2,4 +2,4 @@
 
 - **Name:** GitGub Vijaya
 - **Occupation:** Vijaya
-- **Location:** San Diego
+- **Location:** San Diego, California, USA :)
